@@ -33,3 +33,7 @@ h4{
     background: url("https://placehold.it/500") no-repeat center /cover;
     height: 200px;
 }
+audio{
+    width: 100%;
+    margin-top: 30px;
+}

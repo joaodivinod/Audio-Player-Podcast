@@ -1,21 +1,20 @@
-window.audios = [
+export default [
   {
-    title:
-      "Como começei a programar / Por que criamos a Rocketseat / Nossa Stack",
-    artist: "Diego Fernandes",
-    cover: "como-comecei.jpg",
-    file: "como-comecei.mp3"
+    title: "JavaScript: manual de sobrevivência 2020",
+    artist: "hipsters.tech",
+    cover: "Hipsters-ponto-tech-169-1200x628.png",
+    file: "hipsters_169_javascript_2020.mp3"
   },
   {
-    title: "5 dicas para uma carreira sólida como programador",
-    artist: "Diego Fernandes",
-    cover: "5-dicas-para-uma-carreira-solida-como-programador.jpg",
-    file: "5-dicas-para-uma-carreira-solida-como-programador.mp3"
+    title: "React e React Native na Novatics",
+    artist: "hipsters.tech",
+    cover: "Hipsters-On-The-Road-23-747x448-1.png",
+    file: "hipstersontheroad_23_novatics.mp3"
   },
   {
     title: "Júnior Pleno ou Sênior, qual a diferença?",
     artist: "Diego Fernandes",
     cover: "junior-pleno-ou-senior-qual-a-diferenca.jpg",
     file: "junior-pleno-ou-senior-qual-a-diferenca.mp3"
-  }
+  },
 ];

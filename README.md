@@ -1,5 +1,6 @@
 # PodcastPlayer.JS
-![enter image description here](https://i.imgur.com/tJsaZ55.png?1)Projeto de um player de áudio para podcasts criado com  HTML Audio, Javascript puro e materialize css, desenvolvido durante estudos com base no video da  [rocketseat](https://youtu.be/vqrjFnq3-uo) .
+![enter image description here](https://i.imgur.com/tJsaZ55.png?1)
+Projeto de um player de áudio para podcasts criado com  HTML Audio, Javascript puro e materialize css, desenvolvido durante estudos com base no video da  [rocketseat](https://youtu.be/vqrjFnq3-uo) .
 ## Features
 
  - Quando o audio finaliza, inicia o próximo da lista

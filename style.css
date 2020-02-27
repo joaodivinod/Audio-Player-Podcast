@@ -2,19 +2,20 @@
 @import "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css";
 
 :root {
-  --primary: #7159c1;
+  --primary: #7289da;
+  --background:#23272a;
 }
 
 body {
   height: 100vh;
-  background-color: #efefef;
+  background-color: var(--background);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 #player {
-  background-color: white;
+  background-color: #2c2f33;
   width: 90%;
   max-width: 375px;
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),

@@ -1,6 +1,5 @@
 # PodcastPlayer.JS
-![enter image description here](https://imgur.com/JESJgr6)
-
+![enter image description here](https://i.imgur.com/JESJgr6.gif)
 Projeto de um player de áudio para podcasts criado com  HTML Audio, Javascript puro e materialize css, desenvolvido durante estudos com base no video da  [rocketseat](https://youtu.be/vqrjFnq3-uo) .
 ## Features
 
